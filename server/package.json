@@ -2,10 +2,10 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "env-cmd ./config/dev.env nodemon index.js"
+    "start": "node app.js",
+    "dev": "env-cmd ./config/dev.env nodemon app.js"
   },
   "author": "",
   "license": "ISC",
