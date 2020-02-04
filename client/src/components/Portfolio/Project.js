@@ -8,7 +8,7 @@ const Project = ({ project }) => {
     </span>
   ));
   return (
-    <div className="m-5 project">
+    <div className="m-5 pb-5 project">
       <div className="text-center mb-3">
         <h3 className="project-title">{project.name}</h3>
         <p className="project-description">{project.description}</p>
