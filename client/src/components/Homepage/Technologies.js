@@ -5,11 +5,11 @@ const Technologies = () => {
   const frontendTechs = [
     "HTML",
     "CSS",
+    "Sass",
     "Bootstrap",
     "Vanilla JavaScript",
     "React",
-    "Redux",
-    "Next.JS"
+    "Redux"
   ];
   const backendTechs = ["Node.JS", "Express", "MongoDB", "Firebase"];
   const mobileTechs = ["React Native"];
